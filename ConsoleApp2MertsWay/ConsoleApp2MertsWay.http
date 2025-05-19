@@ -1,0 +1,6 @@
+@ConsoleApp2MertsWay_HostAddress = http://localhost:5131
+
+GET {{ConsoleApp2MertsWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
